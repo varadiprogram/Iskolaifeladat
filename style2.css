@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background-color: #FEC20c;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.navbar a{
+    padding: 10px 10px 10px ;
+    color: white;
+    text-decoration: none;
+    border-style: solid;
+    border-color: #F9AA43;
+}
+
+.navbar{
+    border-style: solid;
+    background-color:#F9AA43;
+    padding: 10px;
+    border-color:#F9AA43;
+}
+
+.navbar a:hover{
+transition: 750ms;
+border-style: solid;
+background-color: white;
+border-color: white;
+color: black;
+}
+
+.very{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.very img{
+    border-style: solid;
+}
+
+.margin p{
+    text-align: center;
+    margin-left:30%;
+    margin-right:30%;
+}
+.margin h2{
+    text-align: center;
+    margin-left:30%;
+    margin-right:30%;
+}
